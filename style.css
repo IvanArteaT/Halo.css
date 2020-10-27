@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+}
+
+#cabecera {
+    color: green;
+}
+
+
+.cabecera{
+    color: red;
+}
+
+#boton {
+    color: orange;
+    background-color: blue;
+}
